@@ -280,9 +280,9 @@ PAGE 3
 
 ## OUTPUT:
 ![alt text](<Screenshot (120).png>)
-![alt text](<Screenshot (116).png>)
-![alt text](<Screenshot (117).png>)
-![alt text](<Screenshot (118).png>)
+![alt text](<Screenshot (123).png>)
+![alt text](<Screenshot (122).png>)
+![alt text](<Screenshot (121).png>)
 ![alt text](<Screenshot (119).png>)
 
 ## RESULT:
